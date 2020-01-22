@@ -1,0 +1,16 @@
+{
+  "name": "test_cy",
+  "version": "1.0.0",
+  "description": "First Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illia",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.2",
+    "chai": "4.1.2",
+    "chai-as-promised": "7.1.1"
+  }
+}
