@@ -9,7 +9,7 @@
   "author": "Illia",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.8.2",
+    "cypress": "^5.6.0",
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1"
   }
